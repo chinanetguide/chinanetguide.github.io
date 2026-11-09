@@ -1,0 +1,19 @@
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: Sogou web spider
+Disallow: /
+
+User-agent: 360Spider
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: YisouSpider
+Disallow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://chinanetguide.com/sitemap.xml
